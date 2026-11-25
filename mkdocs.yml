@@ -1,0 +1,14 @@
+﻿site_name: DevOps Operations Handbook
+site_description: Учебная документация по проверке и публикации изменений
+site_author: "Логвинов Глеб Дмитриевич"
+repo_name: glogvinoff-tech/devops-docs
+repo_url: https://github.com/glogvinoff-tech/devops-docs
+
+theme:
+  name: mkdocs
+  locale: ru
+
+nav:
+  - Главная: index.md
+  - Эксплуатация: runbook.md
+  - Журнал инцидентов: incidents.md
